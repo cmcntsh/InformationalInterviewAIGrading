@@ -1,6 +1,6 @@
 # Informational Interview AI Grading
 
-This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. The original sources for the content areas come from https://theinterviewguys.com/informational-interview-questions-included/ and https://theinterviewguys.com/top-14-questions-to-ask-in-an-interview/ . I have tried some of these on ChatGPT https://chat.openai.com/ and Google Bard https://bard.google.com/chat . (I think ChatGPT may be a bit better right now, but both systems experience periodic updates, so that may change or vary with time.)
+This is a collection of resources and prompts for evaluating and grading student informational interview papers. The original sources for the content areas come from https://theinterviewguys.com/informational-interview-questions-included/ and https://theinterviewguys.com/top-14-questions-to-ask-in-an-interview/ . I have tried some of these on ChatGPT https://chat.openai.com/ and Google Bard https://bard.google.com/chat . (I think ChatGPT may be a bit better right now, but both systems experience periodic updates, so that may change or vary with time.)
 
 ## Evaluate the Comprehensiveness of Content Coverage
 
