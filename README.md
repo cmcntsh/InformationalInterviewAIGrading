@@ -4,13 +4,13 @@ This is a collection of resources and prompts for evaluating and grading student
 
 ## Evaluate the Comprehensiveness of Content Coverage
 
-This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem or information that is simply not available at this point. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
+This paper should cover most of the aspects described.
 
 Prompt (This prompt gave nice results in https://chat.openai.com/ and https://bard.google.com/chat .)
 
 ```
 How well does the following text answer each of these questions? How did you get your start and how did that lead you to where you are today? What is it like working here? Can you tell me about a typical day for you? Were you formally trained for this position? What kind of training did you receive from your current employer? Does your employer do any continuing education for people in your current position? What are the performance expectations for someone just starting out in Nursing Informatics? How does that change the longer someone is on the job? What is your next career step? What are the challenges you’ve faced in your position? What interested you the most about this job? What do you wish you knew starting out that you know now about your career? Is this something you’ve always wanted to do? What do you like the most about working for this company and why? Where do you see this company and the industry in five to ten years? What’s the best advice you would give to someone who wanted to do what you’re doing?
-"[Paste the text you want evaluated here.]"
+Here is the text: "[Paste the text you want evaluated here.]"
 ```
 
 ## Use Prompts to Edit Your Writing
