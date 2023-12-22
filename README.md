@@ -13,9 +13,50 @@ How well does the following text answer each of these questions? How did you get
 "[Paste the text you want evaluated here.]"
 ```
 
- 
+## Use Prompts to Edit Your Writing
 
-## Grading a piece of writing using a specific rubric
+### Help writing topic sentences for paragraphs
+
+Prompt 
+
+```
+Generate three example topic sentences that introduce the main concept of this paragraph:
+"[Paste the paragraph here.]"
+```
+
+### Edit for grammar and style
+
+Prompt
+
+```
+Please review my text for grammar and style. Check for any grammatical errors, awkward phrasing, or areas where the writing style can be improved. If you notice any repetitive or unclear language, provide specific suggestions for enhancement. Here is the text: "[past text here in quotes]".
+```
+
+### Edit for structure and organization
+
+Prompt
+
+```
+Please review this text for overall structure and organization. Ensure that the ideas flow logically, and the paragraphs are well-connected. If you identify any areas where the organization could be improved or suggest restructuring for better clarity, please provide specific recommendations. Here is the text: "[past text here in quotes]".
+```
+
+### Edit for clarity and conciseness
+
+Prompt
+
+```
+Please review my text for clarity and conciseness. Check for any areas where the language could be clearer or more concise. If you identify any redundant or overly complex sentences, suggest specific revisions to enhance clarity and brevity. Here is the text: "[past text here in quotes]".
+```
+
+### Edit for consistent tone
+
+Prompt
+
+```
+Please review my text for consistent tone in academic writing. Ensure that the language is formal, objective, and avoids any elements that may be too casual or subjective. If you identify any instances where the tone may need adjustment for a more formal and scholarly demeanor, please provide specific suggestions. Here is the text: "[past text here in quotes]".
+```
+
+## Grade Writing Using a Rubric
 
 Prompt
 
