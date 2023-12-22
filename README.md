@@ -15,7 +15,11 @@ How well does the following text answer each of these questions? How did you get
 
 ## Use Prompts to Edit Your Writing
 
+I would use the following prompts on individual sections of your paper and not the entire paper all at once. I would use each prompt individually, evaluate the suggested changes, and update your text as desired before moving to the next prompt. I would then use your revised text as the starting point for the next editing prompt.
+
 ### Help writing topic sentences for paragraphs
+
+Each of your paragraphs should have a main topic with the main topic stated at the beginning of the paragraph.
 
 Prompt 
 
