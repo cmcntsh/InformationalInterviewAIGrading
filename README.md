@@ -15,7 +15,7 @@ How well does the following text answer each of these questions? How did you get
 Here is the text: "[Paste the text you want evaluated here.]"
 ```
 
-  
+<br>  
 
 ## Use Prompts to Edit Your Writing
 
@@ -64,7 +64,7 @@ Prompt
 Please review my text for consistent tone in academic writing. Ensure that the language is formal, objective, and avoids any elements that may be too casual or subjective. If you identify any instances where the tone may need adjustment for a more formal and scholarly demeanor, please provide specific suggestions. Here is the text: "[past text here in quotes]".
 ```
 
-  
+<br>  
 
 ## Grade Writing Using a Rubric
 
