@@ -2,6 +2,8 @@
 
 This is a collection of resources and prompts for evaluating and grading student informational interview papers. The original sources for the content areas come from https://theinterviewguys.com/informational-interview-questions-included/ and https://theinterviewguys.com/top-14-questions-to-ask-in-an-interview/ . I have tried some of these on ChatGPT https://chat.openai.com/ and Google Bard https://bard.google.com/chat . (I think ChatGPT may be a bit better right now, but both systems experience periodic updates, so that may change or vary with time.) Disclaimer: I have tried these prompts, and they seem to yield acceptable results. These may not be the only suitable prompts or even the best prompts. If you know or find better prompts for a particular writing task, I'd love to hear about them.
 
+  
+
 ## Evaluate the Comprehensiveness of Content Coverage
 
 This paper should cover most of the aspects described.
@@ -12,6 +14,8 @@ Prompt (This prompt gave nice results in https://chat.openai.com/ and https://ba
 How well does the following text answer each of these questions? How did you get your start and how did that lead you to where you are today? What is it like working here? Can you tell me about a typical day for you? Were you formally trained for this position? What kind of training did you receive from your current employer? Does your employer do any continuing education for people in your current position? What are the performance expectations for someone just starting out in Nursing Informatics? How does that change the longer someone is on the job? What is your next career step? What are the challenges you’ve faced in your position? What interested you the most about this job? What do you wish you knew starting out that you know now about your career? Is this something you’ve always wanted to do? What do you like the most about working for this company and why? Where do you see this company and the industry in five to ten years? What’s the best advice you would give to someone who wanted to do what you’re doing?
 Here is the text: "[Paste the text you want evaluated here.]"
 ```
+
+  
 
 ## Use Prompts to Edit Your Writing
 
@@ -59,6 +63,8 @@ Prompt
 ```
 Please review my text for consistent tone in academic writing. Ensure that the language is formal, objective, and avoids any elements that may be too casual or subjective. If you identify any instances where the tone may need adjustment for a more formal and scholarly demeanor, please provide specific suggestions. Here is the text: "[past text here in quotes]".
 ```
+
+  
 
 ## Grade Writing Using a Rubric
 
